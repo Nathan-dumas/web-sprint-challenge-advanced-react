@@ -46,6 +46,7 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 5. Describe how to test a React component with React Testing Library.
    Use the library of your choice to mimic user interactions on your project. This automation helps us run thorough tests in our code and catch any bugs we may not have otherwise.
+
    You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
 ## Instructions
